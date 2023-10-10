@@ -1,5 +1,5 @@
-# DAMT
- Code for " Distance-Aware Multi-Task Framework for Conversational Discourse Parsing"
+#  Code for " Distance-Aware Multi-Task Framework for Conversational Discourse Parsing" on COLING 2022
+
 
 ## Environment
 
